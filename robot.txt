@@ -3,7 +3,7 @@ Disallow: /search
 Allow: /search/about
 Allow: /search/static
 Allow: /search/howsearchworks
-Sitemap:https://ahmed-derbel.000webhostapp.com/sitemap.xml
+Sitemap:https://ahmedderbel.github.io/ahmedderbel/sitemap.xml
 Disallow: /sdch
 Disallow: /groups
 Disallow: /index.html?
